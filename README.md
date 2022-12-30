@@ -8,4 +8,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with => You
 - 💬 Ask me about => What is the meaning of life
 - 📫 How to reach me: => +55 (11) 91049-2185
-- 
