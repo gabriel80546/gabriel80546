@@ -1,10 +1,8 @@
 ### Olá pessoas 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on => Math Programming
-- 🌱 I’m currently learning => C programming Language
-- 👯 I’m looking to collaborate on => Medical Resource
-- 🤔 I’m looking for help with => You
-- 💬 Ask me about => What is the meaning of life
-- 📫 How to reach me: => +55 (11) 91049-2185
+- 🔭 Eu estou atualmente trabalhando em => Problemas matemáticos na programação
+- 🌱 Estou atualmente aprendendo => Linguagem C
+- 👯 Gostaria de colaborar com => Pesquisa Médica
+- 🤔 Estou procrurando ajuda de => Você
+- 💬 Me pergunte sobre => Qual é o sentido da vida
+- 📫 Como me encontrar: => https://www.youtube.com/@twizzler2682/videos
